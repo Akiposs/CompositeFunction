@@ -1,2 +1,2 @@
 # CompositeFunction
-合成関数
+合成関数のサンプルコード
